@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Straszna_gra.sln"
+    "dotnet.defaultSolution": "Into_darkness.sln"
 }
